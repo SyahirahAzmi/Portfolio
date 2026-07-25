@@ -1,4 +1,5 @@
 About me 👋
+
 Hi, my name is Nurul Syahirah Azmi. Since the beginning of 2023 I have been studying and practicing to become a QA. 
 I am happy to have finally found an area in which I can successfully develop myself. Since I am learning Polish Sign Language, 
 the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, 
